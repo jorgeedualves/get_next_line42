@@ -5,19 +5,9 @@ Projeto que codifique uma função que retorna uma linha terminando com uma nova
 
 🚧 project:<br/>
 ```
-42Libft $ make
+get_next_line $ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=2 get_next_line_bonus.c get_next_line_utils_bonus.c *.h main.c
 ```
-:shower: Clean Obj files:<br/>
+▶️:Execution:<br/>
 ```
-42Libft $ make clean
+get_next_line $ .a.out
 ```
-:shower: :shower: Clean All (obj files + binary):<br/>
-```
-42Libft $ make fclean
-```
-:shower: :shower: 🚧 Clean All + build:<br/>
-```
-42Libft $ make re
-```
-
-<br/>See Makefile<br/>

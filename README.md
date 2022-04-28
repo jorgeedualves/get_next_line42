@@ -1,5 +1,7 @@
 # get_next_line42
-Projeto que codifique uma função que retorna uma linha terminando com uma nova linha, leia a partir de um descritor de arquivo.<br/>
+Projeto que codifique uma função que retorna uma linha terminando com uma nova linha, leia a partir de um descritor de arquivo.
+
+Project that codes a function that returns a line ending with a newline, read from a file descriptor.<br/>
 
 ## Use:
 
@@ -10,4 +12,3 @@ get_next_line $ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=2 get_next_line_bonus.c
 ▶️:Execution:<br/>
 ```
 get_next_line $ .a.out
-```

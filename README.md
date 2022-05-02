@@ -11,7 +11,7 @@ get_next_line $ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=2 get_next_line_bonus.c
 ```
 ▶️:Execution:<br/>
 ```
-get_next_line $ .a.out <br/>
+get_next_line $ ./a.out <br/>
 ```
 
 Made with Jorge, Alfredo Neto https://github.com/Alfredo-Neto e Alexandre Zamarion https://github.com/alezamarion! <br />

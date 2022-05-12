@@ -21,12 +21,12 @@ Project that codes a function that returns a line ending with a newline, read fr
 
 🚧 project:<br/>
 ```
-- to compile:
+To compile:
 $ get_next_line $ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=2 get_next_line_bonus.c get_next_line_utils_bonus.c *.h main.c
 ```
 ▶️:Execution:<br/>
 ```
-get_next_line $ ./a.out <br/>
+get_next_line $ ./a.out
 ```
 
 Made with: <br/>

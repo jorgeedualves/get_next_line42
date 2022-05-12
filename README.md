@@ -32,5 +32,5 @@ get_next_line $ ./a.out
 Made with: <br/>
 Jorge Alves <br/>
 Alfredo Neto https://github.com/Alfredo-Neto<br/>
-Alexandre Zamarion https://github.com/alezamarion! <br />
+Alexandre Zamarion https://github.com/alezamarion <br />
 See my LinkedIn:https://www.linkedin.com/in/jorge-eduardo-alves-094b4331/

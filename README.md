@@ -17,6 +17,10 @@ Project that codes a function that returns a line ending with a newline, read fr
 
  <img src="score_get_next_line.png"> 
 
+ ## Flowchat
+
+ <img src="GNL.jpg">
+
 ## Use:
 
 🚧 project:<br/>

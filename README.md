@@ -5,7 +5,7 @@ Project that codes a function that returns a line ending with a newline, read fr
 
 ## Badge
 
-<img src="get_next_linem.png">
+<img src="img/get_next_linem.png">
 
 ## SKills
 
@@ -15,14 +15,14 @@ Project that codes a function that returns a line ending with a newline, read fr
 
  ## My grade
 
- <img src="score_get_next_line.png"> 
+ <img src="img/score_get_next_line.png"> 
 
  ## Flowchat
 
- <img src="gnl1.pdf">
- <img src="gnl2.pdf">
- <img src="gnl3.pdf">
- <img src="gnl4.pdf">
+ <img src="img/gnl1.png">
+ <img src="img/gnl2.png">
+ <img src="img/gnl3.png">
+ <img src="img/gnl4.png">
 
 ## Use:
 

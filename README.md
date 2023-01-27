@@ -19,7 +19,10 @@ Project that codes a function that returns a line ending with a newline, read fr
 
  ## Flowchat
 
- <img src="GNL.jpg">
+ <img src="gnl1.pdf">
+ <img src="gnl2.pdf">
+ <img src="gnl3.pdf">
+ <img src="gnl4.pdf">
 
 ## Use:
 
